@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Region,Category,Product,Sales,Profit,Discount,Quantity
+5001,2023-01-01,East,Electronics,Desk,24785,-1470,0.06,1
+5002,2023-01-02,West,Electronics,Chair,38126,256,0.34,1
+5003,2023-01-03,North,Office Supplies,Laptop,43308,14019,0.34,4
+5004,2023-01-04,East,Furniture,Laptop,23428,3162,0.38,1
+5005,2023-01-05,East,Furniture,Phone,54371,13944,0.06,4
+5006,2023-01-06,West,Electronics,Chair,19698,415,0.25,4
+5007,2023-01-07,North,Furniture,Desk,20258,-1609,0.19,1
+5008,2023-01-08,North,Furniture,Printer,15754,6157,0.14,2
+5009,2023-01-09,East,Office Supplies,Printer,44738,951,0.14,2
+5010,2023-01-10,South,Office Supplies,Desk,1752,3007,0.17,4
+5011,2023-01-11,East,Office Supplies,Headphones,40264,4064,0.28,1
+5012,2023-01-12,East,Office Supplies,Phone,12673,10524,0.24,2
+5013,2023-01-13,East,Electronics,Printer,37941,14282,0.18,1
+5014,2023-01-14,East,Office Supplies,Chair,27198,-4923,0.03,1
+5015,2023-01-15,West,Furniture,Phone,54182,2577,0.03,1
+5016,2023-01-16,North,Electronics,Chair,59994,11984,0.0,5
+5017,2023-01-17,West,Furniture,Laptop,16281,9060,0.39,1
+5018,2023-01-18,West,Furniture,Phone,13551,12449,0.0,5
+5019,2023-01-19,West,Furniture,Printer,40149,13520,0.04,4
+5020,2023-01-20,East,Office Supplies,Phone,7449,5535,0.13,2
+5021,2023-01-21,South,Office Supplies,Phone,42789,4510,0.32,2
+5022,2023-01-22,North,Electronics,Phone,55893,1943,0.38,2
+5023,2023-01-23,South,Electronics,Headphones,8517,6954,0.32,2
+5024,2023-01-24,West,Office Supplies,Phone,7441,2804,0.28,2
+5025,2023-01-25,West,Furniture,Chair,26434,1565,0.21,2
+5026,2023-01-26,South,Electronics,Laptop,23886,984,0.03,2
+5027,2023-01-27,South,Office Supplies,Desk,10709,-330,0.38,4
+5028,2023-01-28,South,Office Supplies,Phone,18215,13574,0.3,1
+5029,2023-01-29,West,Office Supplies,Printer,29420,4184,0.26,3
+5030,2023-01-30,West,Furniture,Phone,53913,14096,0.3,5
+5031,2023-01-31,North,Office Supplies,Printer,57300,-2808,0.29,3
+5032,2023-02-01,North,Office Supplies,Chair,32203,-3752,0.25,3
+5033,2023-02-02,West,Office Supplies,Printer,42818,6246,0.39,1
+5034,2023-02-03,South,Office Supplies,Desk,54767,7790,0.36,1
+5035,2023-02-04,South,Electronics,Laptop,5137,13381,0.26,1
+5036,2023-02-05,North,Electronics,Printer,5354,-1313,0.28,2
+5037,2023-02-06,West,Office Supplies,Printer,52829,-982,0.02,4
+5038,2023-02-07,North,Furniture,Laptop,57382,6302,0.27,2
+5039,2023-02-08,North,Electronics,Desk,43588,-3030,0.02,4
+5040,2023-02-09,East,Office Supplies,Phone,51832,3389,0.24,4
+5041,2023-02-10,East,Electronics,Printer,38160,12586,0.4,3
+5042,2023-02-11,East,Electronics,Laptop,40311,10374,0.22,3
+5043,2023-02-12,South,Furniture,Chair,49789,788,0.19,4
+5044,2023-02-13,West,Office Supplies,Laptop,55979,408,0.13,4
+5045,2023-02-14,West,Office Supplies,Chair,20356,4446,0.05,2
+5046,2023-02-15,West,Furniture,Desk,22333,-4078,0.29,2
+5047,2023-02-16,West,Furniture,Phone,52484,-4581,0.08,3
+5048,2023-02-17,East,Office Supplies,Laptop,20463,13588,0.05,1
+5049,2023-02-18,South,Office Supplies,Headphones,55623,5789,0.17,4
+5050,2023-02-19,South,Furniture,Printer,37432,-3880,0.32,2
+5051,2023-02-20,East,Electronics,Desk,27669,6260,0.3,3
+5052,2023-02-21,South,Electronics,Laptop,8441,12334,0.02,2
+5053,2023-02-22,East,Furniture,Printer,14888,-2664,0.18,4
+5054,2023-02-23,West,Electronics,Laptop,6069,373,0.21,4
+5055,2023-02-24,East,Furniture,Chair,4800,-2757,0.26,5
+5056,2023-02-25,West,Electronics,Laptop,39537,14029,0.26,1
+5057,2023-02-26,West,Electronics,Headphones,37086,-388,0.15,5
+5058,2023-02-27,North,Office Supplies,Laptop,12515,8946,0.22,3
+5059,2023-02-28,East,Office Supplies,Laptop,45502,13249,0.19,2
+5060,2023-03-01,North,Electronics,Headphones,51558,6104,0.35,3
+5061,2023-03-02,East,Electronics,Desk,6754,8429,0.21,4
+5062,2023-03-03,East,Office Supplies,Laptop,17644,1371,0.18,5
+5063,2023-03-04,North,Office Supplies,Headphones,24714,1359,0.16,5
+5064,2023-03-05,North,Office Supplies,Printer,40618,2863,0.23,5
+5065,2023-03-06,East,Furniture,Chair,15683,-1772,0.32,3
+5066,2023-03-07,South,Electronics,Chair,6738,9382,0.22,4
+5067,2023-03-08,West,Office Supplies,Laptop,6590,13755,0.26,2
+5068,2023-03-09,North,Electronics,Desk,12137,-2109,0.3,2
+5069,2023-03-10,West,Furniture,Desk,22915,-1244,0.21,3
+5070,2023-03-11,South,Furniture,Printer,24571,10770,0.17,5
+5071,2023-03-12,South,Office Supplies,Laptop,58743,11478,0.35,1
+5072,2023-03-13,South,Furniture,Chair,45915,-2326,0.17,3
+5073,2023-03-14,North,Electronics,Desk,43179,1898,0.18,3
+5074,2023-03-15,South,Office Supplies,Laptop,41740,5147,0.4,4
+5075,2023-03-16,North,Electronics,Desk,18771,-4207,0.0,2
+5076,2023-03-17,South,Electronics,Headphones,36534,-2884,0.07,3
+5077,2023-03-18,West,Furniture,Desk,33934,779,0.15,3
+5078,2023-03-19,West,Furniture,Chair,4688,7298,0.37,5
+5079,2023-03-20,East,Furniture,Phone,50323,9153,0.03,5
+5080,2023-03-21,West,Furniture,Printer,10661,6111,0.0,1
+5081,2023-03-22,East,Furniture,Printer,29232,5789,0.02,4
+5082,2023-03-23,West,Office Supplies,Chair,56429,6397,0.04,1
+5083,2023-03-24,North,Electronics,Desk,11814,7999,0.02,5
+5084,2023-03-25,West,Electronics,Laptop,24454,-4186,0.19,2
+5085,2023-03-26,East,Electronics,Desk,57608,11729,0.23,5
+5086,2023-03-27,East,Electronics,Chair,22008,5541,0.11,4
+5087,2023-03-28,South,Furniture,Printer,22469,-2557,0.16,5
+5088,2023-03-29,North,Electronics,Desk,46159,5457,0.04,4
+5089,2023-03-30,West,Office Supplies,Printer,38045,5380,0.13,4
+5090,2023-03-31,South,Office Supplies,Laptop,37168,2783,0.21,4
+5091,2023-04-01,West,Electronics,Printer,23561,6473,0.29,4
+5092,2023-04-02,West,Electronics,Printer,14216,12368,0.0,4
+5093,2023-04-03,South,Office Supplies,Phone,40249,10328,0.19,2
+5094,2023-04-04,South,Office Supplies,Phone,39644,-4173,0.12,1
+5095,2023-04-05,South,Furniture,Headphones,17407,14915,0.34,3
+5096,2023-04-06,South,Office Supplies,Phone,19277,2147,0.29,1
+5097,2023-04-07,South,Furniture,Printer,28193,-549,0.24,4
+5098,2023-04-08,West,Furniture,Chair,52245,10343,0.11,2
+5099,2023-04-09,South,Furniture,Printer,43428,8635,0.36,5
+5100,2023-04-10,North,Furniture,Chair,26829,959,0.02,2
+5101,2023-04-11,East,Furniture,Chair,47392,-4874,0.04,4
+5102,2023-04-12,South,Electronics,Phone,16782,14561,0.16,2
+5103,2023-04-13,South,Office Supplies,Desk,24124,3795,0.05,2
+5104,2023-04-14,West,Furniture,Laptop,23821,6641,0.38,4
+5105,2023-04-15,South,Office Supplies,Phone,10988,2196,0.32,2
+5106,2023-04-16,South,Office Supplies,Phone,23074,6559,0.1,3
+5107,2023-04-17,South,Furniture,Desk,5740,-1632,0.24,3
+5108,2023-04-18,West,Electronics,Laptop,43721,-1203,0.39,2
+5109,2023-04-19,South,Furniture,Printer,10978,10114,0.35,5
+5110,2023-04-20,East,Electronics,Headphones,56145,8718,0.24,4
+5111,2023-04-21,West,Office Supplies,Headphones,45662,-3208,0.36,3
+5112,2023-04-22,East,Electronics,Printer,19762,6053,0.4,5
+5113,2023-04-23,West,Electronics,Phone,53795,-1524,0.3,2
+5114,2023-04-24,South,Electronics,Laptop,53296,-1583,0.03,5
+5115,2023-04-25,East,Office Supplies,Phone,4932,-3355,0.16,1
+5116,2023-04-26,West,Office Supplies,Chair,30221,9755,0.34,3
+5117,2023-04-27,North,Electronics,Phone,14068,14414,0.09,2
+5118,2023-04-28,South,Electronics,Phone,59899,14256,0.33,4
+5119,2023-04-29,West,Furniture,Printer,14678,-1928,0.05,2
+5120,2023-04-30,North,Electronics,Printer,50928,-3146,0.02,4
+5121,2023-05-01,West,Furniture,Printer,22695,-338,0.15,2
+5122,2023-05-02,North,Electronics,Headphones,802,1514,0.01,5
+5123,2023-05-03,South,Furniture,Chair,17522,-2292,0.38,5
+5124,2023-05-04,East,Office Supplies,Printer,555,6694,0.33,5
+5125,2023-05-05,North,Electronics,Laptop,46281,4524,0.32,1
+5126,2023-05-06,West,Electronics,Headphones,9217,14891,0.25,4
+5127,2023-05-07,South,Electronics,Desk,29199,1456,0.09,5
+5128,2023-05-08,North,Electronics,Laptop,8650,-788,0.21,1
+5129,2023-05-09,West,Furniture,Laptop,2625,8224,0.24,4
+5130,2023-05-10,West,Electronics,Printer,44747,2970,0.21,2
+5131,2023-05-11,West,Office Supplies,Desk,49013,11920,0.1,1
+5132,2023-05-12,North,Office Supplies,Desk,17248,-3375,0.21,3
+5133,2023-05-13,North,Electronics,Headphones,40077,5314,0.2,1
+5134,2023-05-14,North,Office Supplies,Desk,5121,2973,0.4,1
+5135,2023-05-15,East,Electronics,Chair,15534,3577,0.36,4
+5136,2023-05-16,North,Electronics,Printer,46891,3070,0.19,2
+5137,2023-05-17,North,Office Supplies,Desk,5626,3666,0.25,3
+5138,2023-05-18,North,Electronics,Headphones,5622,-1400,0.3,5
+5139,2023-05-19,East,Office Supplies,Chair,18530,1783,0.01,5
+5140,2023-05-20,North,Furniture,Phone,17802,8226,0.36,1
+5141,2023-05-21,West,Electronics,Phone,19681,4146,0.34,4
+5142,2023-05-22,North,Furniture,Chair,56158,-29,0.18,4
+5143,2023-05-23,West,Office Supplies,Headphones,39138,8490,0.16,5
+5144,2023-05-24,West,Furniture,Chair,2031,12589,0.11,3
+5145,2023-05-25,West,Furniture,Printer,41440,7951,0.19,2
+5146,2023-05-26,East,Office Supplies,Printer,52997,7312,0.02,3
+5147,2023-05-27,East,Furniture,Phone,40941,-3010,0.34,2
+5148,2023-05-28,East,Furniture,Desk,23833,299,0.01,5
+5149,2023-05-29,North,Office Supplies,Headphones,40150,7997,0.13,2
+5150,2023-05-30,West,Furniture,Phone,35174,14956,0.37,4
+5151,2023-05-31,East,Office Supplies,Desk,36354,8472,0.29,1
+5152,2023-06-01,East,Furniture,Desk,46771,-620,0.11,1
+5153,2023-06-02,North,Office Supplies,Printer,8652,-243,0.1,5
+5154,2023-06-03,East,Office Supplies,Laptop,39018,14097,0.0,4
+5155,2023-06-04,North,Furniture,Laptop,46040,5395,0.28,3
+5156,2023-06-05,South,Furniture,Chair,10767,11241,0.02,4
+5157,2023-06-06,East,Furniture,Printer,25789,588,0.21,1
+5158,2023-06-07,South,Electronics,Desk,1562,12350,0.38,1
+5159,2023-06-08,North,Electronics,Headphones,51628,-56,0.04,4
+5160,2023-06-09,West,Electronics,Laptop,50948,8395,0.36,4
+5161,2023-06-10,East,Office Supplies,Desk,30426,14816,0.4,1
+5162,2023-06-11,North,Furniture,Laptop,6729,12072,0.02,3
+5163,2023-06-12,West,Office Supplies,Laptop,57293,-757,0.35,5
+5164,2023-06-13,West,Electronics,Laptop,49777,4916,0.21,5
+5165,2023-06-14,South,Furniture,Headphones,48415,4984,0.36,4
+5166,2023-06-15,North,Office Supplies,Printer,5132,-3241,0.23,5
+5167,2023-06-16,West,Furniture,Headphones,39556,4181,0.26,1
+5168,2023-06-17,East,Office Supplies,Phone,4096,-2518,0.22,1
+5169,2023-06-18,East,Furniture,Desk,44743,-4049,0.35,4
+5170,2023-06-19,South,Electronics,Printer,6668,-2921,0.29,4
+5171,2023-06-20,West,Electronics,Printer,43063,-2283,0.21,4
+5172,2023-06-21,North,Furniture,Printer,8061,4692,0.35,3
+5173,2023-06-22,East,Office Supplies,Printer,8758,2311,0.1,5
+5174,2023-06-23,West,Electronics,Headphones,17116,13449,0.06,4
+5175,2023-06-24,West,Electronics,Printer,59013,-4232,0.06,2
+5176,2023-06-25,South,Electronics,Chair,27234,490,0.13,2
+5177,2023-06-26,East,Furniture,Desk,6871,10534,0.1,1
+5178,2023-06-27,East,Furniture,Printer,53858,1645,0.37,5
+5179,2023-06-28,North,Office Supplies,Desk,26569,232,0.04,4
+5180,2023-06-29,East,Office Supplies,Chair,14869,6485,0.28,2
+5181,2023-06-30,North,Office Supplies,Chair,13410,797,0.08,5
+5182,2023-07-01,East,Furniture,Desk,8443,14719,0.35,1
+5183,2023-07-02,South,Furniture,Laptop,12699,7342,0.38,3
+5184,2023-07-03,East,Office Supplies,Phone,16228,3038,0.19,5
+5185,2023-07-04,North,Office Supplies,Laptop,23775,11002,0.35,5
+5186,2023-07-05,North,Furniture,Laptop,7238,8087,0.0,3
+5187,2023-07-06,South,Office Supplies,Headphones,16413,-127,0.33,5
+5188,2023-07-07,East,Electronics,Laptop,35740,-3519,0.09,1
+5189,2023-07-08,East,Furniture,Printer,19623,5093,0.36,1
+5190,2023-07-09,South,Office Supplies,Headphones,55053,14835,0.0,3
+5191,2023-07-10,East,Furniture,Headphones,48947,9422,0.22,4
+5192,2023-07-11,East,Electronics,Chair,35029,11438,0.3,2
+5193,2023-07-12,North,Furniture,Laptop,10667,2643,0.1,4
+5194,2023-07-13,East,Furniture,Chair,11054,14846,0.08,5
+5195,2023-07-14,East,Furniture,Desk,17760,10708,0.03,2
+5196,2023-07-15,South,Furniture,Phone,47545,6271,0.13,3
+5197,2023-07-16,South,Electronics,Headphones,4312,12216,0.22,3
+5198,2023-07-17,West,Furniture,Desk,28524,7600,0.05,2
+5199,2023-07-18,North,Furniture,Desk,59156,5998,0.15,1
+5200,2023-07-19,East,Office Supplies,Printer,51112,9295,0.0,2
+5201,2023-07-20,East,Furniture,Phone,27785,5682,0.33,5
+5202,2023-07-21,West,Office Supplies,Desk,27400,11380,0.05,1
+5203,2023-07-22,East,Electronics,Desk,51385,3519,0.11,3
+5204,2023-07-23,North,Electronics,Phone,2105,14694,0.01,2
+5205,2023-07-24,West,Electronics,Phone,6122,-1700,0.17,4
+5206,2023-07-25,North,Electronics,Desk,7267,1722,0.34,4
+5207,2023-07-26,West,Office Supplies,Phone,27639,2218,0.16,5
+5208,2023-07-27,West,Furniture,Desk,12113,-1946,0.07,4
+5209,2023-07-28,South,Electronics,Desk,56638,8575,0.3,2
+5210,2023-07-29,North,Furniture,Printer,53169,2970,0.32,2
+5211,2023-07-30,East,Office Supplies,Laptop,11089,-2857,0.07,4
+5212,2023-07-31,East,Office Supplies,Desk,14418,4503,0.31,2
+5213,2023-08-01,North,Office Supplies,Chair,20619,10149,0.38,5
+5214,2023-08-02,East,Electronics,Headphones,27946,13922,0.07,1
+5215,2023-08-03,East,Furniture,Laptop,59004,7175,0.31,5
+5216,2023-08-04,North,Furniture,Laptop,13546,3356,0.28,5
+5217,2023-08-05,West,Furniture,Laptop,25318,10070,0.19,2
+5218,2023-08-06,North,Office Supplies,Printer,35858,-4178,0.02,1
+5219,2023-08-07,West,Electronics,Desk,50715,12327,0.03,2
+5220,2023-08-08,East,Office Supplies,Printer,4824,9289,0.34,3
+5221,2023-08-09,East,Office Supplies,Desk,11287,1150,0.4,2
+5222,2023-08-10,East,Furniture,Printer,9611,-575,0.27,2
+5223,2023-08-11,South,Office Supplies,Printer,38610,11032,0.18,2
+5224,2023-08-12,West,Furniture,Headphones,16889,-2802,0.26,1
+5225,2023-08-13,South,Electronics,Chair,57141,-1548,0.24,2
+5226,2023-08-14,South,Furniture,Printer,41927,4106,0.15,1
+5227,2023-08-15,North,Electronics,Headphones,14543,8859,0.03,4
+5228,2023-08-16,South,Furniture,Phone,29246,12692,0.33,3
+5229,2023-08-17,North,Office Supplies,Chair,57847,3705,0.15,1
+5230,2023-08-18,North,Office Supplies,Printer,22850,5112,0.33,4
+5231,2023-08-19,South,Electronics,Laptop,42105,14978,0.1,1
+5232,2023-08-20,West,Electronics,Phone,617,-159,0.0,1
+5233,2023-08-21,West,Electronics,Phone,47185,10358,0.06,3
+5234,2023-08-22,West,Furniture,Headphones,19435,-3591,0.19,5
+5235,2023-08-23,West,Furniture,Phone,47577,-434,0.38,5
+5236,2023-08-24,West,Electronics,Chair,13734,6382,0.04,1
+5237,2023-08-25,South,Office Supplies,Printer,38828,12939,0.34,2
+5238,2023-08-26,South,Furniture,Printer,53941,9596,0.21,4
+5239,2023-08-27,East,Furniture,Laptop,1346,-4196,0.33,2
+5240,2023-08-28,West,Furniture,Headphones,11454,8221,0.12,2
+5241,2023-08-29,South,Electronics,Laptop,14203,-3721,0.34,1
+5242,2023-08-30,East,Electronics,Phone,48653,8192,0.31,1
+5243,2023-08-31,West,Electronics,Laptop,47014,2083,0.09,1
+5244,2023-09-01,North,Electronics,Chair,23200,6093,0.05,1
+5245,2023-09-02,East,Electronics,Printer,32543,12771,0.35,5
+5246,2023-09-03,South,Office Supplies,Phone,6969,7880,0.39,1
+5247,2023-09-04,North,Office Supplies,Laptop,30605,10517,0.01,5
+5248,2023-09-05,North,Electronics,Headphones,42601,14063,0.29,5
+5249,2023-09-06,North,Furniture,Chair,26886,-2894,0.36,1
+5250,2023-09-07,East,Electronics,Chair,58567,11086,0.34,3
+5251,2023-09-08,South,Office Supplies,Laptop,49876,-169,0.39,4
+5252,2023-09-09,North,Office Supplies,Printer,46087,14152,0.3,2
+5253,2023-09-10,West,Furniture,Laptop,37476,-1814,0.18,5
+5254,2023-09-11,North,Office Supplies,Phone,39551,-2427,0.12,4
+5255,2023-09-12,North,Electronics,Laptop,2548,7808,0.13,3
+5256,2023-09-13,East,Furniture,Chair,39501,-2401,0.29,2
+5257,2023-09-14,East,Electronics,Laptop,13441,-967,0.3,2
+5258,2023-09-15,South,Electronics,Printer,45875,3428,0.08,5
+5259,2023-09-16,West,Furniture,Headphones,43033,-3696,0.35,1
+5260,2023-09-17,East,Electronics,Desk,2328,12685,0.29,3
+5261,2023-09-18,North,Office Supplies,Laptop,2417,13925,0.23,5
+5262,2023-09-19,South,Electronics,Printer,21118,13435,0.19,3
+5263,2023-09-20,North,Furniture,Printer,32754,3633,0.22,1
+5264,2023-09-21,North,Furniture,Headphones,40256,6372,0.06,1
+5265,2023-09-22,East,Furniture,Chair,51678,3996,0.08,5
+5266,2023-09-23,South,Electronics,Printer,47862,11458,0.04,1
+5267,2023-09-24,West,Furniture,Printer,20628,475,0.06,4
+5268,2023-09-25,West,Furniture,Printer,58745,2184,0.18,2
+5269,2023-09-26,East,Electronics,Printer,46245,7875,0.21,5
+5270,2023-09-27,East,Office Supplies,Phone,59883,-3378,0.01,3
+5271,2023-09-28,South,Electronics,Phone,509,10988,0.32,4
+5272,2023-09-29,West,Furniture,Chair,17144,3041,0.12,5
+5273,2023-09-30,West,Furniture,Laptop,22922,11725,0.36,1
+5274,2023-10-01,West,Electronics,Printer,10365,13458,0.39,1
+5275,2023-10-02,North,Office Supplies,Headphones,2719,2992,0.07,1
+5276,2023-10-03,West,Furniture,Laptop,40309,10646,0.18,1
+5277,2023-10-04,North,Furniture,Headphones,51712,12029,0.0,3
+5278,2023-10-05,South,Furniture,Laptop,5787,-737,0.24,4
+5279,2023-10-06,North,Electronics,Chair,34887,9060,0.24,2
+5280,2023-10-07,South,Furniture,Printer,9012,10156,0.1,3
+5281,2023-10-08,West,Office Supplies,Printer,1842,3646,0.22,3
+5282,2023-10-09,West,Furniture,Desk,43836,6664,0.09,2
+5283,2023-10-10,South,Furniture,Headphones,19716,-2031,0.06,2
+5284,2023-10-11,East,Office Supplies,Laptop,52476,-1972,0.26,1
+5285,2023-10-12,South,Furniture,Laptop,51646,14065,0.13,3
+5286,2023-10-13,East,Electronics,Phone,28034,-1371,0.24,5
+5287,2023-10-14,North,Electronics,Desk,14731,-1933,0.17,2
+5288,2023-10-15,North,Electronics,Phone,32793,941,0.39,2
+5289,2023-10-16,North,Office Supplies,Phone,27114,12770,0.06,4
+5290,2023-10-17,West,Furniture,Phone,36758,14250,0.19,5
+5291,2023-10-18,North,Electronics,Headphones,28753,6555,0.27,5
+5292,2023-10-19,East,Office Supplies,Headphones,42578,8081,0.16,2
+5293,2023-10-20,North,Furniture,Chair,41252,1819,0.39,1
+5294,2023-10-21,South,Office Supplies,Chair,18488,6046,0.29,4
+5295,2023-10-22,South,Electronics,Phone,31537,12717,0.26,5
+5296,2023-10-23,West,Electronics,Desk,12719,-2289,0.3,2
+5297,2023-10-24,South,Electronics,Laptop,735,-147,0.38,5
+5298,2023-10-25,East,Office Supplies,Headphones,43429,2715,0.36,4
+5299,2023-10-26,North,Office Supplies,Desk,2408,3942,0.29,4
+5300,2023-10-27,West,Electronics,Printer,9067,10507,0.3,3
